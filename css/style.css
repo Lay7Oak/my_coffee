@@ -9,7 +9,8 @@ header {
   align-items: center;
   justify-content: initial;
   /* background: #9b6501; */
-  background: #232400;
+  background: #000000;
+  border-bottom: solid #760000 1px;
 }
 
    #slogan{
@@ -49,7 +50,7 @@ header {
     max-height: fit-content;
     /* margin-right: 30px; */
 
-  background-color: #a52a2a;
+  background-color: #760000;
 
   }
 
@@ -134,12 +135,12 @@ header {
 #LadoE span {
   height: auto;
 text-align: center;
-color:#bc7a23;
+color:#b16502;
 
 border-radius: 7px / 7px;
 font-family:'Arial Narrow', Arial, sans-serif;
 
-font-weight: lighter;
+font-weight:normal;
 letter-spacing: 0.3rem;
 font-size: 1.5rem;
 
@@ -194,7 +195,7 @@ font-size: 1.5rem;
   box-shadow: 1px 4px 10px rgb(245, 232, 232);
   margin: 2rem auto; 
   padding: 0.5rem; 
-  color: brown;
+  color: #a52a2a;
   font-size: 13pt;
 }
 
@@ -235,7 +236,7 @@ font-size: 1.5rem;
 }
 
 .coff:hover {
-  background: #a52a2a;
+  background: #760000;
   /* background: linear-gradient(-327deg, rgba(35,36,0,0.9652193641128326) 0%,
   rgba(121,57,9,0.9960316890428046)
   35%, rgba(255,169,0,1) 100%); */
@@ -262,7 +263,7 @@ font-size: 1.5rem;
     width: 100%;
 
     /* color: #fefdfd; */
-    color: #a52a2aca;
+    color: #931414;
     font-size: 1.20rem;
     line-height: 1rem;
 
@@ -296,7 +297,7 @@ font-size: 1.5rem;
   /* margin-left: 85px; */
   font-weight: lighter;
   /* color: #d1c2b1; */
-  color:#bc7a23;
+  color:#b16502;
 
   padding: 10px 0 10px 30px;
   /* border-radius: 9px 0 0 9px; */
@@ -367,7 +368,7 @@ font-size: 1.5rem;
 
     color: #fafbfd;
     
-    background: #232400;
+    background: #000000;
 }
 
 
@@ -378,7 +379,7 @@ font-size: 1.5rem;
   text-align: center;
   justify-content: center;
   align-items: center;
-  background-color: #a52a2a;
+  background-color: #760000;
 
 }
 
@@ -409,8 +410,6 @@ font-size: 1.5rem;
 
     margin-top: 24px;
     border: solid 1px #ad6904;
-
-
 
 
 }
@@ -508,7 +507,8 @@ color: aliceblue;
 padding: 0.51rem;
 font-family: Arial, Helvetica, sans-serif;
 font-size: 9pt;
-background-color: #3b3b3a;
+background-color: #000000;
+border-top: solid #760000 1px;
 }
 
 
@@ -692,11 +692,3 @@ background-color: #3b3b3a;
   }
 
   }
-
-
-
-
-
-
-
-
